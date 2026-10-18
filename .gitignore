@@ -1,0 +1,7 @@
+# Build artifacts
+build/
+MacSwitch.app/
+/MacSwitch
+
+# macOS
+.DS_Store
